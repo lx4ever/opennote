@@ -17,3 +17,7 @@ summary: Reddit AskReddit 高赞帖，话题为"你听过最精彩的反怼是�
 
 > "May your shit come to life and kiss you on the face."
 > — Frank Zappa（离谱派诅咒，胜在荒诞）
+
+> David Letterman: "I'm not as dumb as I look."
+> Tina Fey: "How could you be?"
+> （表面认同，实则补刀，刀刀致命）
