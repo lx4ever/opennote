@@ -10,3 +10,10 @@ summary: Reddit AskReddit 高赞帖，话题为"你听过最精彩的反怼是�
 **Domain**: Reddit / AskReddit / 社交智慧
 **Relevance**: 高质量评论帖，话题幽默又有洞察力，值得细读
 **Summary**: 问题为"What is the greatest comeback to an insult you've ever heard?"，评论区汇集了大量机智、犀利、令人拍案叫绝的反怼金句。
+
+---
+
+## 摘选
+
+> "May your shit come to life and kiss you on the face."
+> — Frank Zappa（离谱派诅咒，胜在荒诞）
