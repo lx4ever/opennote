@@ -69,6 +69,10 @@ summary: 1-2 sentence summary of the note's core content, enabling quick scannin
 
 ## How to Save an Image
 
+**OCR tool preference:**
+- For images containing **Chinese text**: use **PaddleOCR** (`paddleocr --image <file>`) for best accuracy
+- For images in **all other languages**: use **Tesseract OCR** (`tesseract <file> stdout`)
+
 When the user sends an image:
 
 1. **Read the image** — extract and understand the text/content in it
