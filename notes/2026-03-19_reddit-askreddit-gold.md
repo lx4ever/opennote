@@ -21,3 +21,7 @@ summary: Reddit AskReddit 高赞帖，话题为"你听过最精彩的反怼是�
 > David Letterman: "I'm not as dumb as I look."
 > Tina Fey: "How could you be?"
 > （表面认同，实则补刀，刀刀致命）
+
+> 政敌："阁下，我不知道您将死于绞架还是梅毒。"
+> John Wilkes："这取决于，阁下，我是接受了您的原则，还是您的情妇。"
+> — 18世纪英国激进政客 John Wilkes，议会现场（一句话同时骂倒对方的道德与私生活）
