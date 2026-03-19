@@ -1,7 +1,7 @@
 ---
 date: 2026-03-19
 created: "01:29"
-summary: 尝试用 Stitches + Google AI Studios 开发一个 delayed email delivery App，但 Studios 里 UI 渲染效果与 Stitches 差异太大，暂时搁置了这个项目。
+summary: 尝试用 Stitches + Google AI Studios 开发 delayed email delivery App，UI 还原度问题导致搁置；后决定改用 Claude skills 来实现这个功能。
 ---
 
 # Delayed Email Delivery App —— 暂时搁置
@@ -14,3 +14,7 @@ summary: 尝试用 Stitches + Google AI Studios 开发一个 delayed email deliv
 暂时放弃做这个 App。
 
 **App 想法**: Delayed Email Delivery —— 延迟发送邮件的工具
+
+---
+
+**后续决定**（2026-03-19 01:32）：改用 **Claude skills** 来实现这个功能。绕开 UI 还原的问题，直接用 Claude 的能力落地。
