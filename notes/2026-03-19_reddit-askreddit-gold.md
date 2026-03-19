@@ -1,12 +1,12 @@
 ---
 date: 2026-03-19
 created: "13:07"
-summary: Reddit AskReddit 帖子，用户标注为"Gold"，值得一看。链接内容无法直接抓取。
+summary: Reddit AskReddit 高赞帖，话题为"你听过最精彩的反怼是什么？"，评论区充满金句。
 ---
 
-# Reddit AskReddit — Gold
+# Reddit AskReddit — 最精彩的反怼
 
 **Link**: https://www.reddit.com/r/AskReddit/s/8W1AfXjbQu
-**Domain**: Reddit / AskReddit
-**Relevance**: 用户认为值得收藏（标注 Gold）
-**Summary**: 内容未能抓取，需手动打开查看。
+**Domain**: Reddit / AskReddit / 社交智慧
+**Relevance**: 高质量评论帖，话题幽默又有洞察力，值得细读
+**Summary**: 问题为"What is the greatest comeback to an insult you've ever heard?"，评论区汇集了大量机智、犀利、令人拍案叫绝的反怼金句。
